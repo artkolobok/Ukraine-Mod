@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Cossacks",
+		"unitType": "Melee",
+		"replaces": "Musketman",
+		"uniqueTo": "Ukraine",
+		"movement": 2,
+		"strength": 35,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["+[25]% combat bonus in [Grassland]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Plains]"],
+		"attackSound": "shot"
+	},
+]

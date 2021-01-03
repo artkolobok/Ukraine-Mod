@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		"name": "Ukraine",
+		"leaderName": "Ivan Sirko",
+		"adjective": ["Ukrainian"],
+		"startBias": ["Forest","Marsh"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+		
+		"declaringWar": "Your lands will soon be mine, prepare for war!",
+		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
+		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
+		"introduction": "Greetings, stranger! I am Ivan Sirko, Vataman of Zaporizhian Cossacks. Gaze in awe on the majesty that is our great civilization!",
+		
+		"neutralHello": "Hello!",
+		"hateHello": "You again! What did you want?",
+		"tradeRequest": "Well, how is my proposal to you?",
+		"outerColor": [0,0,255],
+		"innerColor": [255,255,0],
+		"uniqueName": "Fertile Lands",
+		"uniques": ["Double quantity of [Wheat] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Horses] produced"],
+		"cities": ["Kyiv","Kharkiv","Dnipropetrovsk","Odesa","Donetsk","Zaporizhia","Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol","Vinnytsia","Sevastopol","Kherson","Poltava","Chernihiv","Cherkasy","Sumy","Horlivka","Zhytomyr","Dniprodzerzhynsk","Kirovohrad","Chernivtsi","Khmelnytskyi","Rivne","Ivano-Frankivsk","Ternopil","Kremenchuk","Lutsk","Bila Tserkva","Kramatorsk","Melitopol","Kerch","Nikopol","Lysychansk","Berdyansk","Pavlohrad","Sloviansk"],
+		},
+]

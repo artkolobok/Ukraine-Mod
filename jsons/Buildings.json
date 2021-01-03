@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Sich",
+		"replaces": "Castle",
+		"cost": 120,
+		"uniqueTo": "Ukraine",
+		"cityStrength": 10,
+		"cityHealth": 75,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+	},
+]
+		
