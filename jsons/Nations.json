@@ -11,8 +11,8 @@
 		"startBias": ["Forest","Marsh"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": ".",
-		"startIntroPart2": ".",
+		"startIntroPart1": "Hail to you, o great hetman Ivan Sirko. Ukraine is one of the successors of the medieval realm of Kievan Rus. As such, Ukraine has a claim to the lands of the Rus alongside Russia. This has brought Ukraine and Russia conflict against each other on who leads Kiev. Ukraine is led by Ivan Sirko and his Cossack hosts.",
+		"startIntroPart2": "Lord Hetman, the Cossacks look to you to lead them into freedom and greatness. Will you wrest the Rus away from the Muscovite pretenders? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your lands will soon be mine, prepare for war!",
 		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
