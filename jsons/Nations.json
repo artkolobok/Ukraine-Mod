@@ -1,14 +1,10 @@
 [
 	{
-		"name": "Spectator",
-		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
-	},
-	{
 		"name": "Ukraine",
 		"leaderName": "Ivan Sirko",
 		"adjective": ["Ukrainian"],
-		"startBias": ["Forest","Marsh"],
+		
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hail to you, o great hetman Ivan Sirko. Ukraine is one of the successors of the medieval realm of Kievan Rus. As such, Ukraine has a claim to the lands of the Rus alongside Russia. This has brought Ukraine and Russia conflict against each other on who leads Kiev. Ukraine is led by Ivan Sirko and his Cossack hosts.",
@@ -22,10 +18,59 @@
 		"neutralHello": "Hello!",
 		"hateHello": "You again! What did you want?",
 		"tradeRequest": "Well, how is my proposal to you?",
+		
 		"outerColor": [0,0,255],
 		"innerColor": [255,255,0],
+		
+		"favoredReligion": "Christianity",
+		
 		"uniqueName": "Fertile Lands",
-		"uniques": ["Double quantity of [Wheat] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Horses] produced"],
-		"cities": ["Kyiv","Kharkiv","Dnipropetrovsk","Odesa","Donetsk","Zaporizhia","Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol","Vinnytsia","Sevastopol","Kherson","Poltava","Chernihiv","Cherkasy","Sumy","Horlivka","Zhytomyr","Dniprodzerzhynsk","Kirovohrad","Chernivtsi","Khmelnytskyi","Rivne","Ivano-Frankivsk","Ternopil","Kremenchuk","Lutsk","Bila Tserkva","Kramatorsk","Melitopol","Kerch","Nikopol","Lysychansk","Berdyansk","Pavlohrad","Sloviansk"],
-		},
+		"uniques": ["Double quantity of [Wheat] produced",
+			    "Double quantity of [Iron] produced",
+			    "Double quantity of [Coal] produced",
+			    "Double quantity of [Horses] produced"
+			   ],
+		"cities": [
+			"Kyiv",
+			"Kharkiv",
+			"Dnipropetrovsk",
+			"Odesa",
+			"Donetsk",
+			"Zaporizhia",
+			"Lviv",
+			"Kryvyi Rih",
+			"Mykolaiv",
+			"Mariupol",
+			"Luhansk",
+			"Makiivka",
+			"Simferopol",
+			"Vinnytsia",
+			"Sevastopol",
+			"Kherson",
+			"Poltava",
+			"Chernihiv",
+			"Cherkasy",
+			"Sumy",
+			"Horlivka",
+			"Zhytomyr",
+			"Dniprodzerzhynsk",
+			"Kirovohrad",
+			"Chernivtsi",
+			"Khmelnytskyi",
+			"Rivne",
+			"Ivano-Frankivsk",
+			"Ternopil",
+			"Kremenchuk",
+			"Lutsk",
+			"Bila Tserkva",
+			"Kramatorsk",
+			"Melitopol",
+			"Kerch",
+			"Nikopol",
+			"Lysychansk",
+			"Berdyansk",
+			"Pavlohrad",
+			"Sloviansk"
+		],
+	},
 ]
