@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Cossacks",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Ukraine",
 		"movement": 2,
