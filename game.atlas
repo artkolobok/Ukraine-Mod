@@ -1,10 +1,10 @@
 
 game.png
-size: 1024, 256
+size: 1024,256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIconsPortraits/Ukraine
+NationPortraits/Ukraine
   rotate: false
   xy: 0, 0
   size: 256, 256
@@ -18,7 +18,7 @@ LeaderIcons/Bohdan Khmelnytsky
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Serdyuk
+UnitPortraits/Serdyuk
   rotate: false
   xy: 512, 0
   size: 256, 256
