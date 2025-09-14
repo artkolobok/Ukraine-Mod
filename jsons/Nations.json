@@ -24,10 +24,11 @@
 		"innerColor": [41, 115, 132],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free Men of the Wild Fields",
-		"uniques": ["[-25]% maintenance costs <for [All] units", "Earn [200]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["[-25]% maintenance costs <for [All] units>", "Earn [200]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Chyhyryn", "Kyiv", "Chortomlyk", "Korsun", "Poltava", "Chernihiv", "Bratslav", "Lubny", "Pereiaslav", "Uman",
 			"Kodak", "Hadiach", "Cherkasy", "Kaniv", "Vinnytsia", "Myrhorod", "Kropyvna", "Nizhyn", "Ovruch", "Starodub",
 			"Kal'nyk", "Konotop", "Pryluky", "Pavoloch", "Bila Tserkva", "Chausy", "Batih", "Baturyn", "Dryzhypole", "Subotiv"],
 		"spyNames": ["Ivan", "Yurii", "Pavlo", "Petro", "Demian", "Skoropadsky", "Mazepa", "Horpyna", "Bohun", "Doniec"]
 	}
 ]
+
