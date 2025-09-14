@@ -20,8 +20,8 @@
 
 		"tradeRequest": "The Zaporozhian Host offers you fair exchange. Let us strengthen our ties through trade.",
 		
-		"outerColor": [239, 192, 93],
-		"innerColor": [41, 115, 132],
+		"outerColor": [41, 115, 132],
+		"innerColor": [239, 192, 93],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Free Men of the Wild Fields",
 		"uniques": ["[-25]% maintenance costs <for [All] units>", "Earn [200]% of killed [Military] unit's [Strength] as [Gold]"],
@@ -31,5 +31,6 @@
 		"spyNames": ["Ivan", "Yurii", "Pavlo", "Petro", "Demian", "Skoropadsky", "Mazepa", "Horpyna", "Bohun", "Doniec"]
 	}
 ]
+
 
 
