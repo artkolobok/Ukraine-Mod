@@ -4,24 +4,31 @@ size: 512,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-BuildingIcons/Sich
+NationIconsPortraits/Ukraine
   rotate: false
-  xy: 104, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
-NationIcons/Ukraine
+LeaderIcons/Leader
   rotate: false
-  xy: 206, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
-UnitIcons/Cossacks
+UnitIconsPortraits/Serdyuk
   rotate: false
-  xy: 2, 2
-  size: 100, 100
-  orig: 100, 100
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIconsPortraits/Sich
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1

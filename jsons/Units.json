@@ -1,16 +1,18 @@
 [
 	{
-		"name": "Cossacks",
+		"name": "Serdyuk",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Hetmanate",
 		"replaces": "Musketman",
-		"uniqueTo": "Ukraine",
 		"movement": 2,
-		"strength": 35,
-		"cost": 200,
+		"strength": 27,
+		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["+[25]% combat bonus in [Grassland]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Plains]"],
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+50]% Yield from pillaging tiles",
+		"[+10]% Strength bonus for [Military] units within [1] tiles",
+		"[+50]% XP gained from combat"],
 		"attackSound": "shot"
-	},
+	}
 ]

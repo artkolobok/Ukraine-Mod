@@ -1,14 +1,11 @@
 [
 	{
 		"name": "Sich",
-		"replaces": "Castle",
-		"cost": 120,
-		"uniqueTo": "Ukraine",
-		"cityStrength": 10,
-		"cityHealth": 75,
-		"hurryCostModifier": 50,
-		"requiredBuilding": "Walls",
-		"requiredTech": "Chivalry",
-	},
+		"replaces": "Armory",
+		"uniqueTo": "Hetmanate",
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [25] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	}
 ]
-		
