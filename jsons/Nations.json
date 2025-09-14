@@ -3,7 +3,7 @@
 		"name": "Hetmanate",
 		"leaderName": "Bohdan Khmelnytsky",
 		"adjective": ["Ukrainian"],
-		"startBias": ["Forest"],
+		"startBias": ["River"],
 		"preferredVictoryType": "Domination",
 		"personality": "Bohdan Khmelnytsky",
 
@@ -31,4 +31,5 @@
 		"spyNames": ["Ivan", "Yurii", "Pavlo", "Petro", "Demian", "Skoropadsky", "Mazepa", "Horpyna", "Bohun", "Doniec"]
 	}
 ]
+
 
