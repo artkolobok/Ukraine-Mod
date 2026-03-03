@@ -34,7 +34,7 @@ BuildingPortraits/Sich
   index: -1
 NationPortraits/Background
   rotate: false
-  xy: 0, 256
+  xy: 0, 512
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
