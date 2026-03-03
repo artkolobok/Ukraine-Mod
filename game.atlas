@@ -35,7 +35,7 @@ BuildingPortraits/Sich
 NationPortraits/Background
   rotate: false
   xy: 0, 256
-  size: 174, 174
-  orig: 174, 174
-  offset: 41, 41
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
   index: -1
